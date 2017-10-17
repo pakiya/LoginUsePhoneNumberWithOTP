@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "280687658963",
+    "firebase_url": "https://logindemophone.firebaseio.com",
+    "project_id": "logindemophone",
+    "storage_bucket": "logindemophone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280687658963:android:a9f2cdfcbd784495",
+        "android_client_info": {
+          "package_name": "com.maanondev.logindemophone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280687658963-fajhj7l6v3frphrra57diqel9bgpef7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maanondev.logindemophone",
+            "certificate_hash": "ea70f9f08159dcebb9bdd025a75896e8b5ee3241"
+          }
+        },
+        {
+          "client_id": "280687658963-eiksofvf490s3rfr8lsd66kgmmmdsh72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5MV_5frcua2JdzZ_bZudGuaE-xQWuJYc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280687658963-eiksofvf490s3rfr8lsd66kgmmmdsh72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
